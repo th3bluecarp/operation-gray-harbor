@@ -1,0 +1,3 @@
+Contractor c.yuen is authorized for model benchmarking and public/synthetic test data only.
+Use of corporate compute for cryptocurrency mining is prohibited.
+High CPU benchmarking must be pre-registered with the data-science lead.

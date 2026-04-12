@@ -1,0 +1,2 @@
+Note: S3 data events in prod-bundles were narrowed at 2026-03-25 16:31Z from broad bucket coverage to a partner-specific prefix allowlist.
+Management events remained enabled.

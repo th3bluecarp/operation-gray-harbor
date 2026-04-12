@@ -1,0 +1,2 @@
+2026-03-25 09:18:02 User=r.bell Host=OPS-WS22 EngineVersion=5.1
+CommandInvocation(Compress-Archive): Compress-Archive -Path C:\PayerPrep\* -DestinationPath C:\Temp\payer_archive.zip

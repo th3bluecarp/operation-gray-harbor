@@ -1,0 +1,8 @@
+2026-03-25T15:44:41Z Starting workflow partner-bundle #7731
+2026-03-25T15:44:45Z Acquiring OIDC token for audience sts.amazonaws.com
+2026-03-25T15:44:46Z AssumeRoleWithWebIdentity arn:aws:iam::771100552901:role/gha-partner-role
+2026-03-25T15:45:09Z helper returned 200 from https://cache-bundle-edge.net/i?repo=quill/partner-bundles&run=7731
+2026-03-25T15:45:31Z aws ssm get-parameter --name /prod/k8s/release/kubeconfig --with-decryption
+2026-03-25T15:46:14Z kubectl --kubeconfig /tmp/kubeconfig get ns
+2026-03-25T15:46:42Z python generate_partner_bundle.py --partner BlueRidge
+2026-03-25T15:47:19Z Workflow completed with conclusion: success

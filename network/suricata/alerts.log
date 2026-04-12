@@ -1,0 +1,5 @@
+03/25/2026-12:59:03.887421 [**] [1:2035811:4] ET PHISHING Possible Credential Harvesting Landing Page [**] {TCP} 10.41.28.11:51912 -> 198.51.100.83:443
+03/25/2026-15:41:14.221993 [**] [1:2403478:2] ET TROJAN Suspicious Shell Script Retrieval [**] {TCP} 10.91.17.44:51642 -> 203.0.113.211:443
+03/25/2026-17:02:44.908712 [**] [1:2024219:7] ET POLICY Box Upload Large Archive [**] {TCP} 10.81.24.41:50322 -> 74.112.186.55:443
+03/25/2026-18:52:01.672031 [**] [1:2024631:3] ET COINMINER Stratum Protocol Detected [**] {TCP} 10.111.18.8:52299 -> 192.0.2.77:3333
+03/25/2026-18:54:05.110329 [**] [1:9999001:1] LOCAL Purple Team Test Beacon Domain [**] {UDP} 10.111.18.8:53321 -> 198.18.0.77:53

@@ -1,0 +1,4 @@
+UtcTime,Computer,User,EventID,Image,CommandLine,ParentImage,DestinationIp,DestinationPort,Hashes
+2026-03-25 12:58:58,OPS-WS22,l.price,1,C:\Program Files\Google\Chrome\Application\chrome.exe,"chrome.exe https://review-packet-center.com/open/92f1",C:\Windows\explorer.exe,,,SHA256=8bcdccd43c746990595fb15d49271497c8bfc3d22bbb35e0a3da9b6a43ff8f01
+2026-03-25 12:59:04,OPS-WS22,l.price,3,C:\Program Files\Google\Chrome\Application\chrome.exe,,C:\Windows\explorer.exe,198.51.100.83,443,SHA256=b26ded4e7887ea477ab4ee45e094677d8f600a2e5e5f466eb4e73a345f0f5c81
+2026-03-25 16:18:44,OPS-WS22,r.bell,1,C:\Program Files\7-Zip\7z.exe,"7z a C:\Temp\payer_archive.7z C:\PayerPrep\*.pptx C:\PayerPrep\*.xlsx",C:\Windows\explorer.exe,,,SHA256=ab5888d4a06ea42c98b107b16fbd124576c74e8debe3045b0f39cc648f22b614

@@ -1,0 +1,3 @@
+time,rule,severity,user,asset,detail
+2026-03-25T17:02:44Z,Archive upload to sanctioned file sharing,medium,svc-reconcile,blueridge_recon_bundle_2026-03-25.tgz,Upload to Box allowed but anomalous for release namespace
+2026-03-25T13:24:37Z,Bulk document sync by delegated app,high,l.price@ghms.example,board_packet_rev3.docx,OAuth app Calendar Hub Service

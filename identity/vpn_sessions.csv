@@ -1,0 +1,4 @@
+timestamp,user,src_ip,device,action,result
+2026-03-25T12:56:11Z,l.price@ghms.example,10.41.28.11,OPS-WS22,connect,success
+2026-03-25T15:40:51Z,n.kade@ghms.example,10.91.17.44,ENG-MBP-14,connect,success
+2026-03-25T18:44:18Z,c.yuen@contractor.example,198.51.100.221,DS-JUP-05,connect,success

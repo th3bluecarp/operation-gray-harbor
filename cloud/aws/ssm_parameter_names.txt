@@ -1,0 +1,5 @@
+/prod/k8s/release/kubeconfig
+/prod/integrations/box/api_token
+/prod/release/signing/url
+/prod/release/signing/token
+/prod/bundles/box_folder_id

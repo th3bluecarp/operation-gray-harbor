@@ -1,0 +1,3 @@
+Known old exercise residue:
+- office-calendar-check.lab
+- runner-health.mesh.invalid

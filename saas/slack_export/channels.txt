@@ -1,0 +1,4 @@
+2026-03-25T15:28:44Z #reconcile j.ortiz: approving the reconcile-hotfix ref once it lands so partner backlog can clear
+2026-03-25T17:08:11Z #partners j.ortiz: who created the BlueRidge reconciliation share? I did not request that bundle
+2026-03-25T18:56:02Z #datasci c.yuen: notebook cpu is screaming again, checking what's stuck
+2026-03-25T16:47:09Z #ops r.bell: ran a local archive before the 09:30 prep, all good

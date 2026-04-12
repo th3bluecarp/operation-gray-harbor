@@ -1,0 +1,3 @@
+The BlueRidge reconciliation team sometimes exports compressed bundles to Box for partner review.
+These pushes normally require j.ortiz request or ticket linkage and should not use open shared links.
+Recent approved dry-runs used service principal svc-reconcile.

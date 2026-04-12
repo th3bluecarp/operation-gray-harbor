@@ -1,0 +1,9 @@
+name: partner-bundle
+on:
+  workflow_dispatch:
+jobs:
+  call-reusable:
+    uses: quill/actions-bundles/.github/workflows/bundle.yml@reconcile-hotfix
+    permissions:
+      id-token: write
+      contents: read

@@ -1,0 +1,6 @@
+CreationTime,UserId,Operation,Workload,ClientIP,UserAgent,ObjectId,Parameters
+2026-03-25T13:02:50Z,l.price@ghms.example,Consent to application,AzureActiveDirectory,45.83.64.201,Chrome/135,Calendar Hub Service,"Files.Read.All;Mail.Read;offline_access"
+2026-03-25T13:18:58Z,l.price@ghms.example,FileDownloaded,SharePoint,45.83.64.201,Chrome/135,/Partners/BlueRidge/blueridge_terms_v14.xlsx,
+2026-03-25T13:21:11Z,l.price@ghms.example,MailItemsAccessed,Exchange,45.83.64.201,GraphSDK,mailbox:l.price@ghms.example,"folder=Inbox"
+2026-03-25T13:24:37Z,l.price@ghms.example,FileSyncDownloadedFull,OneDrive,45.83.64.201,GraphSDK,/Partners/BlueRidge/board_packet_rev3.docx,
+2026-03-25T16:20:11Z,j.ortiz@ghms.example,FileAccessed,SharePoint,10.7.11.19,Chrome/135,/Partners/BlueRidge/recon_signoff.xlsx,

@@ -1,0 +1,6 @@
+TimeGenerated,UserPrincipalName,AppDisplayName,IPAddress,ResultType,ConditionalAccessStatus,ClientAppUsed,OperationName,AdditionalDetails
+2026-03-25T13:02:11Z,l.price@ghms.example,Microsoft Office 365 Portal,45.83.64.201,0,success,Browser,UserLoggedIn,"MFA satisfied by federated claim"
+2026-03-25T13:02:49Z,l.price@ghms.example,Microsoft Graph,45.83.64.201,0,success,Mobile Apps and Desktop clients,Consent to application,"Calendar Hub Service granted Files.Read.All Mail.Read offline_access"
+2026-03-25T13:14:09Z,j.ortiz@ghms.example,Microsoft Office 365 Portal,45.83.64.201,500121,failure,Browser,UserLoginFailed,"MFA denied"
+2026-03-25T13:18:42Z,l.price@ghms.example,SharePoint Online,45.83.64.201,0,success,Browser,FileAccessed,"/Partners/BlueRidge/blueridge_terms_v14.xlsx"
+2026-03-25T13:29:07Z,s.cho@ghms.example,Office 365 Exchange Online,10.4.8.12,0,success,Browser,UserLoggedIn,"Normal SOC console access"
