@@ -1,9 +1,0 @@
-{
-  "eventTime": "2026-03-25T11:15:01Z",
-  "eventSource": "ec2.amazonaws.com",
-  "eventName": "DescribeInstances",
-  "sourceIPAddress": "10.4.8.12",
-  "userIdentity": {
-    "arn": "arn:aws:iam::771100552901:user/secops-bot"
-  }
-}
